@@ -6,6 +6,6 @@
 3. `dotnet run`
 
 ## Example:
-  `cd <yourPath>\DataStructuresAndAlgorithms\Search\LinearSearch`
-  `dotnet build`
-  `dotnet run 1 2 3 4 5 2` *where 1,2,3,4,5 is given array and 2 is item to search in array*
+   `cd <yourPath>\DataStructuresAndAlgorithms\Search\LinearSearch`
+   `dotnet build`
+   `dotnet run 1 2 3 4 5 2` *where 1,2,3,4,5 is given array and 2 is item to search in array*
