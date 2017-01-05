@@ -1,5 +1,5 @@
---temp-output:d:\Iqan\CodeRepos\DataStructuresAndAlgorithms\Search\LinearSearch\obj\Debug\netcoreapp1.1\
---out:d:\Iqan\CodeRepos\DataStructuresAndAlgorithms\Search\LinearSearch\bin\Debug\netcoreapp1.1\LinearSearch.dll
+--temp-output:D:\Iqan\CodeRepos\DataStructuresAndAlgorithms\Search\BinarySearch\obj\Debug\netcoreapp1.1\
+--out:D:\Iqan\CodeRepos\DataStructuresAndAlgorithms\Search\BinarySearch\bin\Debug\netcoreapp1.1\BinarySearch.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_1
@@ -9,7 +9,7 @@
 --optimize:False
 --debug-type:portable
 --emit-entry-point:True
---output-name:LinearSearch
+--output-name:BinarySearch
 --file-version:1.0.0.0
 --version:1.0.0.0
 --informational-version:1.0.0
@@ -87,4 +87,4 @@
 --reference:C:\Users\Iqan.Shaikh\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Iqan.Shaikh\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Iqan.Shaikh\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll
-d:\Iqan\CodeRepos\DataStructuresAndAlgorithms\Search\LinearSearch\Program.cs
+D:\Iqan\CodeRepos\DataStructuresAndAlgorithms\Search\BinarySearch\Program.cs

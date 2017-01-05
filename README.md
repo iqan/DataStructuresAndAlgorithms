@@ -1,4 +1,4 @@
-# DataStructuresAndAlgorithms
+# DataStructures And Algorithms
 
 ## To Build and Run:
 1. Go to particular project directory.
